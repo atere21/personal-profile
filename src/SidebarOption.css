@@ -1,0 +1,16 @@
+h3{
+    padding: 20px;
+    text-align: center;
+    margin: 40px;
+    height: 200%;
+    width: 100vh;
+    background-color: rgb(216, 204, 204);
+    font-size: medium;
+    font-weight: light;
+    transition: 0.4s ease-in-out;
+}
+h3:hover{
+    background-color: grey;
+    color: white;
+    cursor: pointer;
+}

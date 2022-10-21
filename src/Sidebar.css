@@ -1,0 +1,55 @@
+
+.avatar-profile{
+    display: flex;
+    margin-left: 370px;
+    
+
+}
+.github {
+    margin-bottom: 80px;
+    padding-left: 30px;
+    margin-top: -30px;
+    cursor: pointer;
+    
+}
+.sidebar{
+   
+    padding-bottom: 20px;
+    padding-top: 40px;
+    color: black; 
+
+}
+
+.slack{
+    display: flex;
+    width: 25px;
+    height: 35px;
+    text-align: center;
+    margin:auto;
+    width: 100px;
+    cursor: pointer;
+    
+}
+
+.ingressive{
+    display: flex;
+    width: 100%;
+    height: 25px;
+    margin: auto;
+    
+    margin-top: -30px;
+}
+.zuri{
+    margin-left: -290px;
+    margin-right: 200px;
+    height: 20px;
+    width: 100%;
+    
+}
+h4{
+    margin-top: -5px;
+    text-align: center;
+    font-weight: lighter;
+    width: 100%;
+    height: 10px;
+}
