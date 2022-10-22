@@ -1,5 +1,5 @@
 
-.avatar-profile{
+.profile__img{
     display: flex;
     margin-left: 370px;
     
@@ -10,10 +10,11 @@
     padding-left: 30px;
     margin-top: -30px;
     cursor: pointer;
+    color: black;
     
 }
 .sidebar{
-   
+   padding-left: 20px;
     padding-bottom: 20px;
     padding-top: 40px;
     color: black; 
@@ -21,13 +22,10 @@
 }
 
 .slack{
-    display: flex;
-    width: 25px;
-    height: 35px;
-    text-align: center;
-    margin:auto;
-    width: 100px;
-    cursor: pointer;
+   display: flex;
+   width: 25px;
+   height: 35px;
+   margin-left: 330px;
     
 }
 
@@ -39,7 +37,7 @@
     
     margin-top: -30px;
 }
-.zuri{
+.btn__zuri{
     margin-left: -290px;
     margin-right: 200px;
     height: 20px;

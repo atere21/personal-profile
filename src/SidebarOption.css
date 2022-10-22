@@ -8,9 +8,14 @@ h3{
     font-size: medium;
     font-weight: light;
     transition: 0.4s ease-in-out;
+    
 }
 h3:hover{
     background-color: grey;
     color: white;
     cursor: pointer;
+}
+a {
+    text-decoration: none;
+     color: black;
 }
